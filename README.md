@@ -1,2 +1,2 @@
-# This is a team project and the collaborators are
-# Strin6s @ Oberetochi
+# printf
+This project was written by Bright Strin6s and Tochukwo Nwosa
